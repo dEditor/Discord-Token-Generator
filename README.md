@@ -1,6 +1,6 @@
 # introduction
 
-A brand new discord token generator made by me. makes HQ verified discord tokens. And can generate 100 ~ 500 Tokens/day.
+A brand new discord token generator made by me. makes HQ verified discord tokens. And can generate 200 ~ 500 Tokens/day.
 ## Features
 
 * `Fully customizable` introducing a new feature will allow you to choose what type of profiles it will generate [Random, Sports, Anime, Video Games, etc...].
