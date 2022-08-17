@@ -12,7 +12,7 @@ A brand new discord token generator made by me. makes HQ verified discord tokens
 it will be released once this gets 400 stars.
 I can't release it now, Becasue people will just sell it and not give credit. 
 
-8 / 400 stars
+10 / 400 stars
 
 ## Buying
 
